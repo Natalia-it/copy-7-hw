@@ -1579,7 +1579,6 @@ color: var(--back-accent-color);
 
 /* Modal-desctop-footer */
   
-
 .footer-modal-email {
     display: flex;
     justify-content: flex-end;
@@ -1627,6 +1626,5 @@ color: var(--back-accent-color);
     line-height: 1.5;
     letter-spacing: 0.04em;
  }
-
 
 }
